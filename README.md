@@ -1,4 +1,4 @@
-hello![task](https://user-images.githubusercontent.com/98418845/152104766-f081f695-1add-4d19-ba5c-97eb2c78fb6c.jpg)
+![task](https://user-images.githubusercontent.com/98418845/152104766-f081f695-1add-4d19-ba5c-97eb2c78fb6c.jpg)
 
 <html>
 <head>
@@ -83,7 +83,7 @@ footer{
 
             </div class="imagepart">
         
-           <img src= "C:\Users\suresh\Desktop/task.jpg" width="100%" height="auto"/>
+           <img src= [task](https://user-images.githubusercontent.com/98418845/152104766-f081f695-1add-4d19-ba5c-97eb2c78fb6c.jpg) width="100%" height="auto"/>
            </div>
      <div class="sectionpart">
  <section>
